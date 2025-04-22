@@ -6,8 +6,6 @@
 
 An open-source 3D-printed quadrupedal robot. Intuitive gait generation through 12-DOF Bezier Curves. Full 6-axis body pose manipulation. Custom 3DOF Leg Inverse Kinematics Model accounting for offsets.
 
-<img src="media/SideView.png" width="400"> <img src="media/OpenQuadruped.png" width="400">
-
 ## Current Status
 ### To-Do List
 
